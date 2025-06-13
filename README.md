@@ -1,12 +1,41 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🏥 HermesFront
 
-Currently, two official plugins are available:
+**Hermes** O front do nosso projeto hospitalar
+---
+Feito por: Caio Martinez, Estefany Caetano, Guilherme Leite, José Claudio, Wesley Santos
+## 📌 Funcionalidades principais
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🧾 Diagnóstico e geração de conclusões com explicações textuais (skLearn)
+- 📦 Gestão de estoque
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## ⚙️ Requisitos e Instalação
+
+**Versão recomendada do Node:** v20.18.0
+
+### 📦 Instalação dos pacotes
+
+```bash
+npm i
+```
+
+## ▶️ Como iniciar o sistema
+
+
+### 🚀 Executar o programa
+
+```bash
+npm run dev
+```
+
+---
+
+## 📡 HERMESAPI
+
+[API](https://github.com/CAIOMSa/ChallangeSabaraHermes/tree/main)
+
+## 🔌 ESP32
+[ESP](https://github.com/CAIOMSa/ChallangeSabaraHermesESP)
